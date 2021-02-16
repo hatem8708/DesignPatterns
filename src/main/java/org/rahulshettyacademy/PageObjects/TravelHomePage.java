@@ -51,7 +51,7 @@ public class TravelHomePage {
 
     public String getTitle(){
 
-        System.out.println("Hello, I'm deployed in JFROG now");
+        System.out.println("Hi, I'm deployed in JFROG now");
         return driver.getTitle();
     }
 }
