@@ -6,7 +6,7 @@
 
   <groupId>org.rahulshettyacademy</groupId>
   <artifactId>DesignPattern</artifactId>
-  <version>1.12-SNAPSHOT</version>
+  <version>1.2-SNAPSHOT</version>
 
   <name>DesignPattern</name>
 
@@ -65,6 +65,7 @@
       <url>https://has87.jfrog.io/artifactory/libs-snapshot-local</url>
     </snapshotRepository>
   </distributionManagement>
+
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
